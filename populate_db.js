@@ -8,7 +8,7 @@ const MUSEUM_COLUMNS = {
     ID: "ID",
     NAME: "Name",
     TYPE: "Type",
-    STREET_ADDRESS: "Street Address",
+    STREET_ADDRESS: "Street Address",  
     CITY: "City",
     STATE: "State",
     ZIP_CODE: "Zip Code",
@@ -18,6 +18,7 @@ const MUSEUM_COLUMNS = {
     TAX_PERIOD: "Tax Period",
     INCOME: "Income",
     REVENUE: "Revenue"
+    
 };
 
 // CSV column names for gdp_by_states.csv

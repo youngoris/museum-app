@@ -20,6 +20,7 @@ function sortTable(n) {
             var x = rows[i].getElementsByTagName("TD")[n];
             var y = rows[i + 1].getElementsByTagName("TD")[n];
 
+            
             // Check the direction of order
             if (direction == "ascending") {
 

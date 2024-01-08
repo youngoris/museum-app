@@ -15,6 +15,7 @@ db.connect(err => {
     if (err) {
         console.error('Error connecting: ' + err.stack);
         return;
+        
     }
     console.log('Connected as ID ' + db.threadId);
 
